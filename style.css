@@ -1,6 +1,6 @@
     header {
       text-align: center;
-      background: url("images/banner.jpg");
+      background: url("images/giphy(1).gif");
       background-size: cover;
       color: white;
     }
@@ -12,8 +12,9 @@
     }
     img {
       margin: 40px 0px 0px 0px;
-      border: 7px solid white;
-      border-radius: 20px;
+      border: 0px solid white;
+      border-radius: 200px;
+      
     }
     ul {
       padding: 10px;
